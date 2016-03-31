@@ -1,4 +1,4 @@
-# Dockerfile for OpenClinica 3.4.1
+# Dockerfile for OpenClinica 3.9.1
 #
 # * for testing purposes only
 # * needs an additional postgres container
